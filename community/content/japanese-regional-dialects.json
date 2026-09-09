@@ -229,5 +229,12 @@
   "english": "sentence ending",
   "region": "Nagoya",
   "note": "Strong Nagoya marker. (Set 1)"
+},
+  {
+  "dialect": "〜やねん",
+  "standardJapanese": "〜なんだ",
+  "english": "it is that...",
+  "region": "Kansai",
+  "note": "Explanatory ending in conversation. (Set 1)"
 }
 ]
