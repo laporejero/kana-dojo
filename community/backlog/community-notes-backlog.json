@@ -13,7 +13,9 @@
     "position": "top",
     "text": "> Community note: this page intentionally accepts tiny formatting-safe edits.",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "yunxiyun2",
+    "completedPR": 30153
   },
   {
     "id": 3,
