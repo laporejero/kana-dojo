@@ -39,7 +39,9 @@
     "position": "bottom",
     "text": "- Additional community note preserved for documentation housekeeping.",
     "issued": false,
-    "completed": false
+    "completed": false,
+    "completedBy": "estherg12",
+    "completedPR": 30176
   },
   {
     "id": 4,
