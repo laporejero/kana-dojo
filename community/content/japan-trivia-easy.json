@@ -449,9 +449,10 @@
     "answers": ["Ikebana", "Shodo", "Kodo", "Origami"],
     "correctIndex": 0
   },
+  
   {
     "question": "Which city is famous for the Gion Matsuri festival? (Community variation 51)",
-    "difficulty": "easy",
+    "difficulty": "hard",
     "answers": ["Kyoto", "Sendai", "Sapporo", "Kobe"],
     "correctIndex": 0
   },
@@ -601,5 +602,15 @@
     "Oden"
   ],
   "correctIndex": 0
-}
+},
+    "question": "Which Japanese dish consists of skewered grilled chicken? (Community variation 48)",
+  "difficulty": "hard",
+  "answers": [
+    "Yakitori",
+    "Sukiyaki",
+    "Tonkatsu",
+    "Oden"
+  ],
+  "correctIndex": 0
+
 ]
